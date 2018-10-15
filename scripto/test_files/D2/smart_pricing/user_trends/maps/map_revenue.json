@@ -1,0 +1,343 @@
+{"map_revenue":[{
+	"value": "LA",
+	"earnings": "1.0"
+} ,{
+	"value": "JE",
+	"earnings": "1.0"
+} ,{
+	"value": "AD",
+	"earnings": "1.0"
+} ,{
+	"value": "CN",
+	"earnings": "1.0"
+} ,{
+	"value": "BB",
+	"earnings": "2.0"
+}, {
+	"value": "GH",
+	"earnings": "5.0"
+} ,{
+	"value": "DO",
+	"earnings": "8.0"
+} ,{
+	"value": "MT",
+	"earnings": "9.0"
+} ,{
+	"value": "GU",
+	"earnings": "10.0"
+} ,{
+	"value": "KG",
+	"earnings": "10.0"
+} ,{
+	"value": "PA",
+	"earnings": "11.0"
+} ,{
+	"value": "PF",
+	"earnings": "12.0"
+} ,{
+	"value": "SX",
+	"earnings": "12.0"
+} ,{
+	"value": "RE",
+	"earnings": "14.0"
+} ,{
+	"value": "BS",
+	"earnings": "14.0"
+} ,{
+	"value": "PR",
+	"earnings": "21.0"
+} ,{
+	"value": "SR",
+	"earnings": "25.0"
+}, {
+	"value": "SK",
+	"earnings": "27.0"
+} ,{
+	"value": "TT",
+	"earnings": "30.0"
+}, {
+	"value": "GG",
+	"earnings": "36.0"
+} ,{
+	"value": "BM",
+	"earnings": "42.0"
+} ,{
+	"value": "DJ",
+	"earnings": "49.0"
+}, {
+	"value": "AW",
+	"earnings": "50.0"
+} ,{
+	"value": "JP",
+	"earnings": "52.0"
+} ,{
+	"value": "IS",
+	"earnings": "52.0"
+} ,{
+	"value": "IE",
+	"earnings": "69.0"
+}, {
+	"value": "VI",
+	"earnings": "99.0"
+} ,{
+	"value": "KH",
+	"earnings": "100.0"
+} ,{
+	"value": "BO",
+	"earnings": "106.0"
+} ,{
+	"value": "CY",
+	"earnings": "110.0"
+}, {
+	"value": "TJ",
+	"earnings": "110.0"
+} ,{
+	"value": "LV",
+	"earnings": "117.0"
+} ,{
+	"value": "EE",
+	"earnings": "135.0"
+} ,{
+	"value": "HN",
+	"earnings": "141.0"
+}, {
+	"value": "HR",
+	"earnings": "180.0"
+} ,{
+	"value": "FI",
+	"earnings": "184.0"
+} ,{
+	"value": "SN",
+	"earnings": "310.0"
+} ,{
+	"value": "KW",
+	"earnings": "326.0"
+} ,{
+	"value": "UY",
+	"earnings": "331.0"
+} ,{
+	"value": "SV",
+	"earnings": "415.0"
+} ,{
+	"value": "TN",
+	"earnings": "429.0"
+} ,{
+	"value": "CR",
+	"earnings": "446.0"
+} ,{
+	"value": "RS",
+	"earnings": "511.0"
+} ,{
+	"value": "AL",
+	"earnings": "519.0"
+} ,{
+	"value": "NO",
+	"earnings": "531.0"
+} ,{
+	"value": "KR",
+	"earnings": "533.0"
+} ,{
+	"value": "AE",
+	"earnings": "562.0"
+} ,{
+	"value": "CH",
+	"earnings": "742.0"
+} ,{
+	"value": "DK",
+	"earnings": "795.0"
+} ,{
+	"value": "JM",
+	"earnings": "800.0"
+}, {
+	"value": "PE",
+	"earnings": "820.0"
+} ,{
+	"value": "NZ",
+	"earnings": "900.0"
+} ,{
+	"value": "AT",
+	"earnings": "929.0"
+} ,{
+	"value": "NP",
+	"earnings": "1155.0"
+} ,{
+	"value": "BG",
+	"earnings": "1227.0"
+} ,{
+	"value": "HK",
+	"earnings": "1269.0"
+} ,{
+	"value": "PY",
+	"earnings": "1400.0"
+} ,{
+	"value": "VE",
+	"earnings": "1406.0"
+} ,{
+	"value": "UZ",
+	"earnings": "1426.0"
+} ,{
+	"value": "BE",
+	"earnings": "1490.0"
+} ,{
+	"value": "VN",
+	"earnings": "1560.0"
+} ,{
+	"value": "SE",
+	"earnings": "1583.0"
+} ,{
+	"value": "GT",
+	"earnings": "1605.0"
+} ,{
+	"value": "TG",
+	"earnings": "1610.0"
+} ,{
+	"value": "RO",
+	"earnings": "1694.0"
+} ,{
+	"value": "SA",
+	"earnings": "1906.0"
+} ,{
+	"value": "AZ",
+	"earnings": "2231.0"
+} ,{
+	"value": "KZ",
+	"earnings": "2338.0"
+} ,{
+	"value": "SG",
+	"earnings": "2353.0"
+} ,{
+	"value": "LB",
+	"earnings": "2500.0"
+} ,{
+	"value": "BA",
+	"earnings": "2555.0"
+} ,{
+	"value": "NG",
+	"earnings": "2560.0"
+} ,{
+	"value": "IL",
+	"earnings": "2576.0"
+} ,{
+	"value": "BY",
+	"earnings": "2667.0"
+} ,{
+	"value": "PL",
+	"earnings": "2909.0"
+} ,{
+	"value": "NL",
+	"earnings": "3015.0"
+} ,{
+	"value": "IQ",
+	"earnings": "3219.0"
+} ,{
+	"value": "PT",
+	"earnings": "3333.0"
+} ,{
+	"value": "MD",
+	"earnings": "4005.0"
+} ,{
+	"value": "HU",
+	"earnings": "4343.0"
+} ,{
+	"value": "NI",
+	"earnings": "4771.0"
+} ,{
+	"value": "ZA",
+	"earnings": "4937.0"
+} ,{
+	"value": "GR",
+	"earnings": "4964.0"
+} ,{
+	"value": "AU",
+	"earnings": "5153.0"
+} ,{
+	"value": "AR",
+	"earnings": "5186.0"
+} ,{
+	"value": "FR",
+	"earnings": "5341.0"
+} ,{
+	"value": "IT",
+	"earnings": "5483.0"
+} ,{
+	"value": "YE",
+	"earnings": "5553.0"
+} ,{
+	"value": "TR",
+	"earnings": "6285.0"
+} ,{
+	"value": "CA",
+	"earnings": "7248.0"
+} ,{
+	"value": "CL",
+	"earnings": "7438.0"
+} ,{
+	"value": "ID",
+	"earnings": "8049.0"
+} ,{
+	"value": "CZ",
+	"earnings": "8883.0"
+} ,{
+	"value": "PH",
+	"earnings": "9146.0"
+} ,{
+	"value": "DZ",
+	"earnings": "9246.0"
+} ,{
+	"value": "LT",
+	"earnings": "9773.0"
+} ,{
+	"value": "EC",
+	"earnings": "9879.0"
+} ,{
+	"value": "BD",
+	"earnings": "10220.0"
+} ,{
+	"value": "UA",
+	"earnings": "10738.0"
+} ,{
+	"value": "PK",
+	"earnings": "11151.0"
+} ,{
+	"value": "ES",
+	"earnings": "11702.0"
+} ,{
+	"value": "DE",
+	"earnings": "13847.0"
+} ,{
+	"value": "TW",
+	"earnings": "16359.0"
+} ,{
+	"value": "MA",
+	"earnings": "17093.0"
+} ,{
+	"value": "MY",
+	"earnings": "17794.0"
+} ,{
+	"value": "TH",
+	"earnings": "17819.0"
+} ,{
+	"value": "GB",
+	"earnings": "18793.0"
+} ,{
+	"value": "MX",
+	"earnings": "19379.0"
+} ,{
+	"value": "CO",
+	"earnings": "25881.0"
+} ,{
+	"value": "RU",
+	"earnings": "29420.0"
+}, {
+	"value": "IN",
+	"earnings": "34236.0"
+} ,{
+	"value": "EG",
+	"earnings": "35981.0"
+} ,{
+	"value": "BR",
+	"earnings": "56117.0"
+}, {
+	"value": "US",
+	"earnings": "170739.0"
+}]}

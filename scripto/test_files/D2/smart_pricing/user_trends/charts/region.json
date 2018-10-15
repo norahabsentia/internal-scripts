@@ -1,0 +1,41 @@
+{"region":[{
+	"value": "Ontario",
+	"earnings": 1118.0,
+	"number_products": 273.0
+}, {
+	"value": "California",
+	"earnings": 661.0,
+	"number_products": 227.0
+},{
+	"value": "Ohio",
+	"earnings": 128.0,
+	"number_products": 64.0
+}, {
+	"value": "Texas",
+	"earnings": 103.0,
+	"number_products": 40.0
+}, {
+	"value": "New York",
+	"earnings": 99.0,
+	"number_products": 15.0
+}, {
+	"value": "Virginia",
+	"earnings": 88.0,
+	"number_products": 17.0
+}, {
+	"value": "Oppland",
+	"earnings": 80.0,
+	"number_products": 11.0
+}, {
+	"value": "Indiana",
+	"earnings": 65.0,
+	"number_products": 11.0
+}, {
+	"value": "Michigan",
+	"earnings": 56.0,
+	"number_products": 22.0
+}, {
+	"value": "Pennsylvania",
+	"earnings": 44.0,
+	"number_products": 15.0
+}]}

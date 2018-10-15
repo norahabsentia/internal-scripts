@@ -1,0 +1,1409 @@
+{"region":[{
+	"value": "Ontario",
+	"earnings": 1118.0,
+	"number_products": 273.0
+}, {
+	"value": "California",
+	"earnings": 661.0,
+	"number_products": 227.0
+}, {
+	"value": null,
+	"earnings": 461.0,
+	"number_products": 226.0
+}, {
+	"value": "Ohio",
+	"earnings": 128.0,
+	"number_products": 64.0
+}, {
+	"value": "Texas",
+	"earnings": 103.0,
+	"number_products": 40.0
+}, {
+	"value": "New York",
+	"earnings": 99.0,
+	"number_products": 15.0
+}, {
+	"value": "Virginia",
+	"earnings": 88.0,
+	"number_products": 17.0
+}, {
+	"value": "Oppland",
+	"earnings": 80.0,
+	"number_products": 11.0
+}, {
+	"value": "Indiana",
+	"earnings": 65.0,
+	"number_products": 11.0
+}, {
+	"value": "Michigan",
+	"earnings": 56.0,
+	"number_products": 22.0
+}, {
+	"value": "Pennsylvania",
+	"earnings": 44.0,
+	"number_products": 15.0
+}, {
+	"value": "Arizona",
+	"earnings": 35.0,
+	"number_products": 7.0
+}, {
+	"value": "Washington",
+	"earnings": 30.0,
+	"number_products": 3.0
+}, {
+	"value": "England",
+	"earnings": 29.0,
+	"number_products": 10.0
+}, {
+	"value": "\"North Rhine-Westphalia\"",
+	"earnings": 29.0,
+	"number_products": 10.0
+}, {
+	"value": "New Brunswick",
+	"earnings": 27.0,
+	"number_products": 5.0
+}, {
+	"value": "Wales",
+	"earnings": 18.0,
+	"number_products": 6.0
+}, {
+	"value": "Florida",
+	"earnings": 16.0,
+	"number_products": 5.0
+}, {
+	"value": "Provence-Alpes-C\u00f4te d'Azur",
+	"earnings": 16.0,
+	"number_products": 3.0
+}, {
+	"value": "Colorado",
+	"earnings": 14.0,
+	"number_products": 4.0
+}, {
+	"value": "Andalusia",
+	"earnings": 12.0,
+	"number_products": 6.0
+}, {
+	"value": null,
+	"earnings": 12.0,
+	"number_products": 2.0
+}, {
+	"value": "Louisiana",
+	"earnings": 10.0,
+	"number_products": 5.0
+}, {
+	"value": "Grand-Est",
+	"earnings": 10.0,
+	"number_products": 1.0
+}, {
+	"value": "Massachusetts",
+	"earnings": 10.0,
+	"number_products": 5.0
+}, {
+	"value": "Georgia",
+	"earnings": 10.0,
+	"number_products": 1.0
+}, {
+	"value": "South Carolina",
+	"earnings": 9.0,
+	"number_products": 3.0
+}, {
+	"value": "Missouri",
+	"earnings": 8.0,
+	"number_products": 4.0
+}, {
+	"value": "Maryland",
+	"earnings": 7.0,
+	"number_products": 2.0
+}, {
+	"value": "Tennessee",
+	"earnings": 4.0,
+	"number_products": 2.0
+}, {
+	"value": "Nevada",
+	"earnings": 4.0,
+	"number_products": 2.0
+}, {
+	"value": "Minnesota",
+	"earnings": 4.0,
+	"number_products": 2.0
+}, {
+	"value": "Vermont",
+	"earnings": 2.0,
+	"number_products": 1.0
+}, {
+	"value": "Marrakesh-Safi",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Friuli Venezia Giulia",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "North Rhine-Westphalia",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Groningen",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Selangor",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Northern Territory",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Provincia de Panama",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Putrajaya",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Alberta",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Bangkok",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Scotland",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Haryana",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "K\u0131rklareli",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Hlavni mesto Praha\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Dhaka Division",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Utah",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "South Denmark",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Pest megye",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Prahova",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Tehr\u0101n",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Hai'l Region",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "New Mexico",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Saxony-Anhalt",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Abidjan",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Ar Riy\u0101\u1e11",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Pays de la Loire",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Guangdong",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Saxony",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Santiago Metropolitan",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "National Capital Region",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Izmir",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Changwat Rayong",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Tuscany",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Apulia",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Mecklenburg-Vorpommern",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Vladimirskaya Oblast'",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Budapest",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Crete",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Niigata",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Federal District\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Ostan-e Azarbayjan-e Gharbi",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Upper Austria",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Shaanxi",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Valais",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Constanta",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Beyrouth",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Lucerne",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Prince Edward Island",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Anbar",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Orange Free value",
+	"earnings": 0.0,
+	"number_products": 0.0
+}, {
+	"value": "North Carolina",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Kentucky",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "South Australia",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Gujarat",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Tamil Nadu",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "National Capital Territory of Delhi",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Capital Region",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Durango",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Oruro",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Mu\u011fla",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Valencia",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Sakarya",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Tipaza",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Tatarstan",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Baku City\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Astana Qalasy",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Departamento de Guatemala",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Port Louis District\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Khabarovsk",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Qarku i Tiranes",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Sofia-Capital",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Bengkulu",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\u014csaka",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Fej\u00e9r",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Friesland",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "North Brabant",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "North Dakota",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Ostan-e Khorasan-e Jonubi\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "District of Columbia",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Harghita",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Newfoundland and Labrador",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Abu Dhabi",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Flanders",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Sisacko-Moslavacka Zupanija",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Gifu",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "V\u00e4stra G\u00f6taland",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Belgrade",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Alaska",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "New Hampshire",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Makkah Province",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Jakarta",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Region del Biobio",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Dakar",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Gouvernorat de Tunis\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Hlavni mesto Praha",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Central Macedonia",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Gorod Bishkek",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Punjab",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Provincia de Pichincha",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Majuro Atoll\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Gauteng",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Jalisco",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Denizli",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Sindh",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Provincia de San Jose",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Eastern",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Emilia-Romagna",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "City of Port of Spain",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Dnipro",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Basel-City",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Judetul Mures",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Ho Chi Minh City",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Hauts-de-France",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Pernambuco",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Kyiv City\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Bahia",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Samarskaya Oblast'\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "F\u0103le\u015fti",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Irkutskaya Oblast'",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Central Visayas\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Islamabad Capital Territory\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Departamento del Valle del Cauca",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Wilaya d' Alger\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Central Region",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Taoyuan",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Sk\u00e5ne",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Region de San Martin",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Capellen",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Faro",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Liguria",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Catalonia",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Chiapas",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Castille-La Mancha",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Idaho",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Lombardy",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Brussels Capital",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "West Virginia",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "North Holland",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Provincia de Manabi",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Arkansas",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Manitoba",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Hawaii",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Mississippi",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\u00c7orum",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Kilis",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Toshkent Shahri",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Kuala Lumpur",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Bihar",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"National Capital Region\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Chelyabinsk",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Departamento de Francisco Morazan",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Tomskaya Oblast'\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Rio de Janeiro",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Solothurn",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Victoria",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Isparta",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Region de Valparaiso",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Nairobi Area\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Buenos Aires",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Attica",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Luhans'ka Oblast'",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Sarawak",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Alexandria",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Pomerania",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Illinois",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Southern Governorate",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Rakhine value",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Vrancea",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Yangon Region",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Buenos Aires F.D.",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Auckland",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Centre-Val de Loire",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Maule Region",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Madhya Pradesh",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Oregon",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Estado de Baja California",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "West Java",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Hesse",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Bal\u0131kesir",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Central District",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "South Dakota",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Zurich",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Mexico City",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Rheinland-Pfalz",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Auvergne-Rhone-Alpes",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Hunan",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Hordaland Fylke",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Uppsala",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Western Australia",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Antalya",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "British Columbia",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Tochigi",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Maharashtra",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Oklahoma",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Alabama",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Beijing",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Baghdad",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"North Denmark\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Occitanie",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Ar Riy\u0101\u1e11\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Rhode Island",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Estado de Mexico",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Central and Western District",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Saskatchewan",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Thuringia",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Mie",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Leinster",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Al Asimah",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Nova Scotia",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Montana",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "New South Wales",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"New Jersey\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Sao Paulo",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "New Jersey",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Madrid",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"New York\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Central Luzon",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Moscow",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\u00d6rebro",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Carabobo",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Cagayan Valley",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Bavaria",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Stockholm",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Baladiyat ad Dawhah",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Canary Islands",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Campania",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Uttar Pradesh",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"District of Columbia\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Kerala",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Taipei City",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Saint Gallen",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "South Holland",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Castille and Le\u00f3n",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Hatay",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Geneva",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Tasmania",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Departamento de Montevideo",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Kansas",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Delaware",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Istanbul",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Central Singapore Community Development Council",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Wisconsin",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Central Jutland",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Iowa",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Queensland",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\u00cele-de-France",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Luxembourg",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Jihocesky kraj",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Ahal",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Provincia de Lima\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Cusco",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Almaty Qalasy",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Ryazanskaya Oblast'",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Region du Grand Casablanca\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Calabarzon",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Bogota D.C.",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Ceara",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Ankara",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "K'alak'i T'bilisi",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Wallonia",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Bourgogne-Franche-Comte",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Tel Aviv\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Zealand",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Ostan-e Tehran",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Vojvodina",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Dubai",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Bragan\u00e7a",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Riga",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Mersin",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Baden-W\u00fcrttemberg Region",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Somogy megye",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Salzburg",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Nebraska",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Connecticut",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Quebec",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Kropyvnytskyi",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Aragon",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Seoul",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Thanh Pho GJa Nang",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Basel-Landschaft",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Capital",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Bucuresti",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Wyoming",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Lima",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Normandy",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Nouvelle-Aquitaine",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Isfahan",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Thanh Pho Ha Noi",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Tokyo",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Latium",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Fribourg",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Vienna",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Perm Krai",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Chandigarh",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Land Berlin",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Eastern Province",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Kanagawa",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Maine",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"West Virginia\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Northern Ireland",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Rio de Janeiro\"",
+	"earnings": 0.0,
+	"number_products": 0.0
+}, {
+	"value": "Al Madinah al Munawwarah",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Komuna e Prishtines\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Cairo Governorate",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Departement de l'Ouest",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Viana do Castelo",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Michoac\u00e1n",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "\"Metro Manila\"",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Region de Magallanes y de la Antartica Chilena",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Nineveh",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Lagos",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Kaohsiung",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Munster",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Klaip\u0117da County",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Tucuman",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Ash Shariqah",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Eski\u015fehir",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Karnataka",
+	"earnings": 0.0,
+	"number_products": null
+}, {
+	"value": "Lower Saxony",
+	"earnings": 0.0,
+	"number_products": null
+}]}

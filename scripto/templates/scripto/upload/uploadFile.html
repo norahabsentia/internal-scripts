@@ -1,0 +1,26 @@
+
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="container text-center">
+    <h1>Upload Files</h1>
+    <h5>"NOTE : Upload zipped folder in case of multiple files"</h5><br>
+    <div class="row">
+        <div class="col-sm-4"></div>
+        <div class="col-sm-4">
+            <form method="POST" enctype="multipart/form-data">
+                {% csrf_token %}
+                <div class="form-group">
+                    <input class="form-control-file border" type="file" name="file" required id="id_file">
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+        <div class="col-sm-4"></div>
+    </div>
+</div>
+
+{% endblock %}
+
+

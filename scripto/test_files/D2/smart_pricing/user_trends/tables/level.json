@@ -1,0 +1,1161 @@
+{"level":[{
+	"value": 1,
+	"earnings": 1283,
+	"number_products": 17,
+	"inventory_spent": 51
+}, {
+	"value": 2,
+	"earnings": 3100,
+	"number_products": 31,
+	"inventory_spent": 0
+}, {
+	"value": 3,
+	"earnings": 110,
+	"number_products": 6,
+	"inventory_spent": 0
+}, {
+	"value": 6,
+	"earnings": 2427,
+	"number_products": 26,
+	"inventory_spent": 31
+}, {
+	"value": 7,
+	"earnings": 301,
+	"number_products": 4,
+	"inventory_spent": 34
+}, {
+	"value": 8,
+	"earnings": 22,
+	"number_products": 7,
+	"inventory_spent": 244
+}, {
+	"value": 9,
+	"earnings": 200,
+	"number_products": 2,
+	"inventory_spent": 6
+}, {
+	"value": 10,
+	"earnings": 52,
+	"number_products": 2,
+	"inventory_spent": 8
+}, {
+	"value": 11,
+	"earnings": 53,
+	"number_products": 8,
+	"inventory_spent": 72
+}, {
+	"value": 12,
+	"earnings": 43,
+	"number_products": 10,
+	"inventory_spent": 94
+}, {
+	"value": 13,
+	"earnings": 36,
+	"number_products": 10,
+	"inventory_spent": 1398
+}, {
+	"value": 14,
+	"earnings": 227,
+	"number_products": 11,
+	"inventory_spent": 519
+}, {
+	"value": 15,
+	"earnings": 138,
+	"number_products": 8,
+	"inventory_spent": 879
+}, {
+	"value": 16,
+	"earnings": 249,
+	"number_products": 15,
+	"inventory_spent": 669
+}, {
+	"value": 17,
+	"earnings": 154,
+	"number_products": 14,
+	"inventory_spent": 1525
+}, {
+	"value": 18,
+	"earnings": 51,
+	"number_products": 8,
+	"inventory_spent": 498
+}, {
+	"value": 19,
+	"earnings": 117,
+	"number_products": 25,
+	"inventory_spent": 1533
+}, {
+	"value": 20,
+	"earnings": 31,
+	"number_products": 7,
+	"inventory_spent": 474
+}, {
+	"value": 21,
+	"earnings": 228,
+	"number_products": 15,
+	"inventory_spent": 429
+}, {
+	"value": 22,
+	"earnings": 227,
+	"number_products": 9,
+	"inventory_spent": 211
+}, {
+	"value": 23,
+	"earnings": 21,
+	"number_products": 7,
+	"inventory_spent": 121
+}, {
+	"value": 24,
+	"earnings": 128,
+	"number_products": 33,
+	"inventory_spent": 771
+}, {
+	"value": 25,
+	"earnings": 174,
+	"number_products": 19,
+	"inventory_spent": 345
+}, {
+	"value": 26,
+	"earnings": 38,
+	"number_products": 9,
+	"inventory_spent": 497
+}, {
+	"value": 27,
+	"earnings": 177,
+	"number_products": 31,
+	"inventory_spent": 530
+}, {
+	"value": 28,
+	"earnings": 173,
+	"number_products": 35,
+	"inventory_spent": 626
+}, {
+	"value": 29,
+	"earnings": 123,
+	"number_products": 15,
+	"inventory_spent": 388
+}, {
+	"value": 30,
+	"earnings": 36,
+	"number_products": 16,
+	"inventory_spent": 305
+}, {
+	"value": 31,
+	"earnings": 66,
+	"number_products": 14,
+	"inventory_spent": 136
+}, {
+	"value": 32,
+	"earnings": 9,
+	"number_products": 4,
+	"inventory_spent": 453
+}, {
+	"value": 33,
+	"earnings": 154,
+	"number_products": 30,
+	"inventory_spent": 628
+}, {
+	"value": 34,
+	"earnings": 244,
+	"number_products": 25,
+	"inventory_spent": 397
+}, {
+	"value": 35,
+	"earnings": 232,
+	"number_products": 34,
+	"inventory_spent": 599
+}, {
+	"value": 36,
+	"earnings": 43,
+	"number_products": 8,
+	"inventory_spent": 303
+}, {
+	"value": 37,
+	"earnings": 83,
+	"number_products": 15,
+	"inventory_spent": 94
+}, {
+	"value": 38,
+	"earnings": 20,
+	"number_products": 4,
+	"inventory_spent": 142
+}, {
+	"value": 39,
+	"earnings": 105,
+	"number_products": 19,
+	"inventory_spent": 100
+}, {
+	"value": 40,
+	"earnings": 344,
+	"number_products": 69,
+	"inventory_spent": 328
+}, {
+	"value": 41,
+	"earnings": 339,
+	"number_products": 58,
+	"inventory_spent": 105
+}, {
+	"value": 42,
+	"earnings": 78,
+	"number_products": 16,
+	"inventory_spent": 77
+}, {
+	"value": 43,
+	"earnings": 225,
+	"number_products": 49,
+	"inventory_spent": 83
+}, {
+	"value": 44,
+	"earnings": 435,
+	"number_products": 56,
+	"inventory_spent": 313
+}, {
+	"value": 45,
+	"earnings": 520,
+	"number_products": 140,
+	"inventory_spent": 212
+}, {
+	"value": 46,
+	"earnings": 139,
+	"number_products": 47,
+	"inventory_spent": 147
+}, {
+	"value": 47,
+	"earnings": 11,
+	"number_products": 4,
+	"inventory_spent": 46
+}, {
+	"value": 48,
+	"earnings": 123,
+	"number_products": 38,
+	"inventory_spent": 53
+}, {
+	"value": 49,
+	"earnings": 53,
+	"number_products": 18,
+	"inventory_spent": 14
+}, {
+	"value": 50,
+	"earnings": 214,
+	"number_products": 51,
+	"inventory_spent": 151
+}, {
+	"value": 51,
+	"earnings": 136,
+	"number_products": 31,
+	"inventory_spent": 105
+}, {
+	"value": 52,
+	"earnings": 207,
+	"number_products": 53,
+	"inventory_spent": 309
+}, {
+	"value": 53,
+	"earnings": 5,
+	"number_products": 3,
+	"inventory_spent": 21
+}, {
+	"value": 54,
+	"earnings": 250,
+	"number_products": 13,
+	"inventory_spent": 40
+}, {
+	"value": 55,
+	"earnings": 65,
+	"number_products": 10,
+	"inventory_spent": 202
+}, {
+	"value": 56,
+	"earnings": 629,
+	"number_products": 63,
+	"inventory_spent": 58
+}, {
+	"value": 57,
+	"earnings": 58,
+	"number_products": 11,
+	"inventory_spent": 69
+}, {
+	"value": 58,
+	"earnings": 68,
+	"number_products": 9,
+	"inventory_spent": 42
+}, {
+	"value": 59,
+	"earnings": 112,
+	"number_products": 31,
+	"inventory_spent": 346
+}, {
+	"value": 60,
+	"earnings": 125,
+	"number_products": 26,
+	"inventory_spent": 195
+}, {
+	"value": 61,
+	"earnings": 36,
+	"number_products": 6,
+	"inventory_spent": 16
+}, {
+	"value": 62,
+	"earnings": 171,
+	"number_products": 13,
+	"inventory_spent": 18
+}, {
+	"value": 63,
+	"earnings": 2,
+	"number_products": 1,
+	"inventory_spent": 20
+}, {
+	"value": 64,
+	"earnings": 90,
+	"number_products": 18,
+	"inventory_spent": 28
+}, {
+	"value": 65,
+	"earnings": 366,
+	"number_products": 92,
+	"inventory_spent": 189
+}, {
+	"value": 66,
+	"earnings": 103,
+	"number_products": 28,
+	"inventory_spent": 32
+}, {
+	"value": 67,
+	"earnings": 57,
+	"number_products": 9,
+	"inventory_spent": 6
+}, {
+	"value": 68,
+	"earnings": 36,
+	"number_products": 6,
+	"inventory_spent": 28
+}, {
+	"value": 69,
+	"earnings": 241,
+	"number_products": 59,
+	"inventory_spent": 76
+}, {
+	"value": 70,
+	"earnings": 47,
+	"number_products": 7,
+	"inventory_spent": 5
+}, {
+	"value": 71,
+	"earnings": 186,
+	"number_products": 30,
+	"inventory_spent": 18
+}, {
+	"value": 72,
+	"earnings": 47,
+	"number_products": 6,
+	"inventory_spent": 0
+}, {
+	"value": 73,
+	"earnings": 81,
+	"number_products": 12,
+	"inventory_spent": 17
+}, {
+	"value": 74,
+	"earnings": 139,
+	"number_products": 19,
+	"inventory_spent": 46
+}, {
+	"value": 75,
+	"earnings": 83,
+	"number_products": 17,
+	"inventory_spent": 33
+}, {
+	"value": 76,
+	"earnings": 95,
+	"number_products": 18,
+	"inventory_spent": 41
+}, {
+	"value": 77,
+	"earnings": 47,
+	"number_products": 7,
+	"inventory_spent": 7
+}, {
+	"value": 78,
+	"earnings": 33,
+	"number_products": 8,
+	"inventory_spent": 81
+}, {
+	"value": 79,
+	"earnings": 24,
+	"number_products": 5,
+	"inventory_spent": 17
+}, {
+	"value": 80,
+	"earnings": 45,
+	"number_products": 9,
+	"inventory_spent": 16
+}, {
+	"value": 81,
+	"earnings": 211,
+	"number_products": 80,
+	"inventory_spent": 61
+}, {
+	"value": 82,
+	"earnings": 127,
+	"number_products": 20,
+	"inventory_spent": 16
+}, {
+	"value": 83,
+	"earnings": 61,
+	"number_products": 14,
+	"inventory_spent": 21
+}, {
+	"value": 84,
+	"earnings": 44,
+	"number_products": 8,
+	"inventory_spent": 7
+}, {
+	"value": 85,
+	"earnings": 144,
+	"number_products": 24,
+	"inventory_spent": 0
+}, {
+	"value": 86,
+	"earnings": 107,
+	"number_products": 13,
+	"inventory_spent": 4
+}, {
+	"value": 87,
+	"earnings": 78,
+	"number_products": 28,
+	"inventory_spent": 79
+}, {
+	"value": 88,
+	"earnings": 88,
+	"number_products": 18,
+	"inventory_spent": 26
+}, {
+	"value": 89,
+	"earnings": 83,
+	"number_products": 21,
+	"inventory_spent": 19
+}, {
+	"value": 90,
+	"earnings": 19,
+	"number_products": 5,
+	"inventory_spent": 12
+}, {
+	"value": 91,
+	"earnings": 21,
+	"number_products": 4,
+	"inventory_spent": 32
+}, {
+	"value": 92,
+	"earnings": 39,
+	"number_products": 9,
+	"inventory_spent": 0
+}, {
+	"value": 93,
+	"earnings": 73,
+	"number_products": 16,
+	"inventory_spent": 26
+}, {
+	"value": 94,
+	"earnings": 67,
+	"number_products": 11,
+	"inventory_spent": 12
+}, {
+	"value": 95,
+	"earnings": 13,
+	"number_products": 5,
+	"inventory_spent": 7
+}, {
+	"value": 96,
+	"earnings": 49,
+	"number_products": 18,
+	"inventory_spent": 35
+}, {
+	"value": 97,
+	"earnings": 139,
+	"number_products": 45,
+	"inventory_spent": 17
+}, {
+	"value": 98,
+	"earnings": 101,
+	"number_products": 11,
+	"inventory_spent": 6
+}, {
+	"value": 99,
+	"earnings": 88,
+	"number_products": 35,
+	"inventory_spent": 7
+}, {
+	"value": 100,
+	"earnings": 19,
+	"number_products": 7,
+	"inventory_spent": 0
+}, {
+	"value": 101,
+	"earnings": 80,
+	"number_products": 20,
+	"inventory_spent": 6
+}, {
+	"value": 102,
+	"earnings": 94,
+	"number_products": 29,
+	"inventory_spent": 19
+}, {
+	"value": 103,
+	"earnings": 89,
+	"number_products": 15,
+	"inventory_spent": 8
+}, {
+	"value": 104,
+	"earnings": 4,
+	"number_products": 2,
+	"inventory_spent": 11
+}, {
+	"value": 105,
+	"earnings": 127,
+	"number_products": 6,
+	"inventory_spent": 13
+}, {
+	"value": 106,
+	"earnings": 63,
+	"number_products": 9,
+	"inventory_spent": 4
+}, {
+	"value": 107,
+	"earnings": 48,
+	"number_products": 8,
+	"inventory_spent": 12
+}, {
+	"value": 108,
+	"earnings": 42,
+	"number_products": 9,
+	"inventory_spent": 0
+}, {
+	"value": 109,
+	"earnings": 15,
+	"number_products": 5,
+	"inventory_spent": 0
+}, {
+	"value": 110,
+	"earnings": 29,
+	"number_products": 9,
+	"inventory_spent": 22
+}, {
+	"value": 111,
+	"earnings": 134,
+	"number_products": 30,
+	"inventory_spent": 19
+}, {
+	"value": 112,
+	"earnings": 58,
+	"number_products": 7,
+	"inventory_spent": 10
+}, {
+	"value": 113,
+	"earnings": 131,
+	"number_products": 25,
+	"inventory_spent": 1
+}, {
+	"value": 114,
+	"earnings": 48,
+	"number_products": 10,
+	"inventory_spent": 1
+}, {
+	"value": 115,
+	"earnings": 12,
+	"number_products": 2,
+	"inventory_spent": 4
+}, {
+	"value": 116,
+	"earnings": 62,
+	"number_products": 8,
+	"inventory_spent": 18
+}, {
+	"value": 117,
+	"earnings": 431,
+	"number_products": 72,
+	"inventory_spent": 13
+}, {
+	"value": 118,
+	"earnings": 206,
+	"number_products": 48,
+	"inventory_spent": 11
+}, {
+	"value": 119,
+	"earnings": 55,
+	"number_products": 9,
+	"inventory_spent": 15
+}, {
+	"value": 120,
+	"earnings": 89,
+	"number_products": 19,
+	"inventory_spent": 5
+}, {
+	"value": 121,
+	"earnings": 8,
+	"number_products": 3,
+	"inventory_spent": 7
+}, {
+	"value": 122,
+	"earnings": 44,
+	"number_products": 9,
+	"inventory_spent": 4
+}, {
+	"value": 123,
+	"earnings": 13,
+	"number_products": 5,
+	"inventory_spent": 26
+}, {
+	"value": 124,
+	"earnings": 108,
+	"number_products": 28,
+	"inventory_spent": 3
+}, {
+	"value": 125,
+	"earnings": 40,
+	"number_products": 18,
+	"inventory_spent": 8
+}, {
+	"value": 126,
+	"earnings": 48,
+	"number_products": 10,
+	"inventory_spent": 21
+}, {
+	"value": 127,
+	"earnings": 7,
+	"number_products": 2,
+	"inventory_spent": 0
+}, {
+	"value": 128,
+	"earnings": 52,
+	"number_products": 16,
+	"inventory_spent": 0
+}, {
+	"value": 129,
+	"earnings": 15,
+	"number_products": 2,
+	"inventory_spent": 20
+}, {
+	"value": 130,
+	"earnings": 27,
+	"number_products": 7,
+	"inventory_spent": 0
+}, {
+	"value": 131,
+	"earnings": 3,
+	"number_products": 2,
+	"inventory_spent": 0
+}, {
+	"value": 132,
+	"earnings": 69,
+	"number_products": 9,
+	"inventory_spent": 2
+}, {
+	"value": 133,
+	"earnings": 31,
+	"number_products": 6,
+	"inventory_spent": 4
+}, {
+	"value": 134,
+	"earnings": 12,
+	"number_products": 3,
+	"inventory_spent": 12
+}, {
+	"value": 135,
+	"earnings": 55,
+	"number_products": 17,
+	"inventory_spent": 6
+}, {
+	"value": 136,
+	"earnings": 42,
+	"number_products": 14,
+	"inventory_spent": 2
+}, {
+	"value": 137,
+	"earnings": 30,
+	"number_products": 7,
+	"inventory_spent": 8
+}, {
+	"value": 138,
+	"earnings": 39,
+	"number_products": 12,
+	"inventory_spent": 2
+}, {
+	"value": 139,
+	"earnings": 25,
+	"number_products": 13,
+	"inventory_spent": 1
+}, {
+	"value": 140,
+	"earnings": 252,
+	"number_products": 75,
+	"inventory_spent": 8
+}, {
+	"value": 141,
+	"earnings": 112,
+	"number_products": 36,
+	"inventory_spent": 1
+}, {
+	"value": 142,
+	"earnings": 54,
+	"number_products": 20,
+	"inventory_spent": 5
+}, {
+	"value": 143,
+	"earnings": 30,
+	"number_products": 7,
+	"inventory_spent": 2
+}, {
+	"value": 144,
+	"earnings": 66,
+	"number_products": 17,
+	"inventory_spent": 12
+}, {
+	"value": 145,
+	"earnings": 34,
+	"number_products": 13,
+	"inventory_spent": 0
+}, {
+	"value": 146,
+	"earnings": 115,
+	"number_products": 57,
+	"inventory_spent": 15
+}, {
+	"value": 147,
+	"earnings": 66,
+	"number_products": 16,
+	"inventory_spent": 1
+}, {
+	"value": 148,
+	"earnings": 160,
+	"number_products": 61,
+	"inventory_spent": 1
+}, {
+	"value": 149,
+	"earnings": 35,
+	"number_products": 7,
+	"inventory_spent": 5
+}, {
+	"value": 150,
+	"earnings": 39,
+	"number_products": 7,
+	"inventory_spent": 3
+}, {
+	"value": 151,
+	"earnings": 52,
+	"number_products": 13,
+	"inventory_spent": 14
+}, {
+	"value": 152,
+	"earnings": 69,
+	"number_products": 17,
+	"inventory_spent": 2
+}, {
+	"value": 153,
+	"earnings": 61,
+	"number_products": 10,
+	"inventory_spent": 1
+}, {
+	"value": 154,
+	"earnings": 32,
+	"number_products": 6,
+	"inventory_spent": 5
+}, {
+	"value": 155,
+	"earnings": 46,
+	"number_products": 12,
+	"inventory_spent": 6
+}, {
+	"value": 156,
+	"earnings": 64,
+	"number_products": 13,
+	"inventory_spent": 0
+}, {
+	"value": 157,
+	"earnings": 12,
+	"number_products": 3,
+	"inventory_spent": 1
+}, {
+	"value": 158,
+	"earnings": 22,
+	"number_products": 7,
+	"inventory_spent": 10
+}, {
+	"value": 159,
+	"earnings": 26,
+	"number_products": 5,
+	"inventory_spent": 0
+}, {
+	"value": 160,
+	"earnings": 28,
+	"number_products": 13,
+	"inventory_spent": 6
+}, {
+	"value": 161,
+	"earnings": 61,
+	"number_products": 13,
+	"inventory_spent": 0
+}, {
+	"value": 162,
+	"earnings": 8,
+	"number_products": 3,
+	"inventory_spent": 8
+}, {
+	"value": 163,
+	"earnings": 60,
+	"number_products": 13,
+	"inventory_spent": 2
+}, {
+	"value": 164,
+	"earnings": 68,
+	"number_products": 13,
+	"inventory_spent": 2
+}, {
+	"value": 165,
+	"earnings": 16,
+	"number_products": 11,
+	"inventory_spent": 1
+}, {
+	"value": 166,
+	"earnings": 5,
+	"number_products": 5,
+	"inventory_spent": 0
+}, {
+	"value": 167,
+	"earnings": 45,
+	"number_products": 9,
+	"inventory_spent": 0
+}, {
+	"value": 168,
+	"earnings": 16,
+	"number_products": 3,
+	"inventory_spent": 0
+}, {
+	"value": 169,
+	"earnings": 56,
+	"number_products": 9,
+	"inventory_spent": 0
+}, {
+	"value": 170,
+	"earnings": 29,
+	"number_products": 8,
+	"inventory_spent": 3
+}, {
+	"value": 171,
+	"earnings": 39,
+	"number_products": 17,
+	"inventory_spent": 0
+}, {
+	"value": 172,
+	"earnings": 92,
+	"number_products": 23,
+	"inventory_spent": 1
+}, {
+	"value": 173,
+	"earnings": 20,
+	"number_products": 6,
+	"inventory_spent": 0
+}, {
+	"value": 174,
+	"earnings": 5,
+	"number_products": 4,
+	"inventory_spent": 4
+}, {
+	"value": 175,
+	"earnings": 11,
+	"number_products": 2,
+	"inventory_spent": 0
+}, {
+	"value": 176,
+	"earnings": 63,
+	"number_products": 24,
+	"inventory_spent": 8
+}, {
+	"value": 177,
+	"earnings": 29,
+	"number_products": 15,
+	"inventory_spent": 5
+}, {
+	"value": 178,
+	"earnings": 42,
+	"number_products": 11,
+	"inventory_spent": 10
+}, {
+	"value": 179,
+	"earnings": 27,
+	"number_products": 7,
+	"inventory_spent": 2
+}, {
+	"value": 180,
+	"earnings": 51,
+	"number_products": 6,
+	"inventory_spent": 5
+}, {
+	"value": 181,
+	"earnings": 11,
+	"number_products": 5,
+	"inventory_spent": 0
+}, {
+	"value": 182,
+	"earnings": 31,
+	"number_products": 7,
+	"inventory_spent": 0
+}, {
+	"value": 183,
+	"earnings": 38,
+	"number_products": 8,
+	"inventory_spent": 3
+}, {
+	"value": 184,
+	"earnings": 25,
+	"number_products": 6,
+	"inventory_spent": 5
+}, {
+	"value": 185,
+	"earnings": 45,
+	"number_products": 10,
+	"inventory_spent": 1
+}, {
+	"value": 186,
+	"earnings": 27,
+	"number_products": 4,
+	"inventory_spent": 3
+}, {
+	"value": 187,
+	"earnings": 29,
+	"number_products": 5,
+	"inventory_spent": 0
+}, {
+	"value": 188,
+	"earnings": 35,
+	"number_products": 11,
+	"inventory_spent": 0
+}, {
+	"value": 189,
+	"earnings": 74,
+	"number_products": 30,
+	"inventory_spent": 4
+}, {
+	"value": 190,
+	"earnings": 38,
+	"number_products": 7,
+	"inventory_spent": 4
+}, {
+	"value": 191,
+	"earnings": 17,
+	"number_products": 6,
+	"inventory_spent": 3
+}, {
+	"value": 192,
+	"earnings": 79,
+	"number_products": 14,
+	"inventory_spent": 3
+}, {
+	"value": 193,
+	"earnings": 23,
+	"number_products": 4,
+	"inventory_spent": 2
+}, {
+	"value": 194,
+	"earnings": 79,
+	"number_products": 9,
+	"inventory_spent": 1
+}, {
+	"value": 195,
+	"earnings": 13,
+	"number_products": 4,
+	"inventory_spent": 3
+}, {
+	"value": 196,
+	"earnings": 67,
+	"number_products": 13,
+	"inventory_spent": 4
+}, {
+	"value": 197,
+	"earnings": 103,
+	"number_products": 17,
+	"inventory_spent": 2
+}, {
+	"value": 198,
+	"earnings": 89,
+	"number_products": 14,
+	"inventory_spent": 2
+}, {
+	"value": 199,
+	"earnings": 71,
+	"number_products": 8,
+	"inventory_spent": 2
+}, {
+	"value": 200,
+	"earnings": 26,
+	"number_products": 4,
+	"inventory_spent": 0
+}, {
+	"value": 201,
+	"earnings": 27,
+	"number_products": 4,
+	"inventory_spent": 1
+}, {
+	"value": 202,
+	"earnings": 45,
+	"number_products": 5,
+	"inventory_spent": 0
+}, {
+	"value": 203,
+	"earnings": 254,
+	"number_products": 36,
+	"inventory_spent": 0
+}, {
+	"value": 204,
+	"earnings": 135,
+	"number_products": 19,
+	"inventory_spent": 1
+}, {
+	"value": 205,
+	"earnings": 63,
+	"number_products": 13,
+	"inventory_spent": 4
+}, {
+	"value": 206,
+	"earnings": 27,
+	"number_products": 4,
+	"inventory_spent": 0
+}, {
+	"value": 207,
+	"earnings": 14,
+	"number_products": 4,
+	"inventory_spent": 3
+}, {
+	"value": 208,
+	"earnings": 16,
+	"number_products": 5,
+	"inventory_spent": 0
+}, {
+	"value": 209,
+	"earnings": 79,
+	"number_products": 22,
+	"inventory_spent": 0
+}, {
+	"value": 210,
+	"earnings": 64,
+	"number_products": 12,
+	"inventory_spent": 0
+}, {
+	"value": 211,
+	"earnings": 5,
+	"number_products": 3,
+	"inventory_spent": 0
+}, {
+	"value": 212,
+	"earnings": 103,
+	"number_products": 20,
+	"inventory_spent": 0
+}, {
+	"value": 213,
+	"earnings": 109,
+	"number_products": 31,
+	"inventory_spent": 0
+}, {
+	"value": 214,
+	"earnings": 90,
+	"number_products": 13,
+	"inventory_spent": 0
+}, {
+	"value": 215,
+	"earnings": 58,
+	"number_products": 15,
+	"inventory_spent": 0
+}, {
+	"value": 216,
+	"earnings": 15,
+	"number_products": 3,
+	"inventory_spent": 0
+}, {
+	"value": 217,
+	"earnings": 117,
+	"number_products": 21,
+	"inventory_spent": 3
+}, {
+	"value": 218,
+	"earnings": 27,
+	"number_products": 4,
+	"inventory_spent": 0
+}, {
+	"value": 219,
+	"earnings": 26,
+	"number_products": 6,
+	"inventory_spent": 11
+}, {
+	"value": 220,
+	"earnings": 142,
+	"number_products": 30,
+	"inventory_spent": 6
+}, {
+	"value": 221,
+	"earnings": 86,
+	"number_products": 15,
+	"inventory_spent": 0
+}, {
+	"value": 222,
+	"earnings": 100,
+	"number_products": 21,
+	"inventory_spent": 3
+}, {
+	"value": 223,
+	"earnings": 12,
+	"number_products": 3,
+	"inventory_spent": 3
+}, {
+	"value": 224,
+	"earnings": 35,
+	"number_products": 8,
+	"inventory_spent": 3
+}, {
+	"value": 225,
+	"earnings": 15,
+	"number_products": 3,
+	"inventory_spent": 8
+}, {
+	"value": 226,
+	"earnings": 30,
+	"number_products": 12,
+	"inventory_spent": 0
+}, {
+	"value": 227,
+	"earnings": 76,
+	"number_products": 16,
+	"inventory_spent": 8
+}, {
+	"value": 228,
+	"earnings": 46,
+	"number_products": 7,
+	"inventory_spent": 3
+}, {
+	"value": 229,
+	"earnings": 38,
+	"number_products": 11,
+	"inventory_spent": 4
+}, {
+	"value": 230,
+	"earnings": 34,
+	"number_products": 5,
+	"inventory_spent": 3
+}, {
+	"value": 231,
+	"earnings": 10,
+	"number_products": 5,
+	"inventory_spent": 3
+}, {
+	"value": 232,
+	"earnings": 44,
+	"number_products": 7,
+	"inventory_spent": 7
+}, {
+	"value": 233,
+	"earnings": 16,
+	"number_products": 7,
+	"inventory_spent": 6
+}, {
+	"value": 234,
+	"earnings": 71,
+	"number_products": 21,
+	"inventory_spent": 17
+}]}

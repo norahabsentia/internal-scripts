@@ -1,0 +1,77 @@
+{
+  "country": [
+    {
+      "value": "IN",
+      "churned": 11388
+    },
+    {
+      "value": "AE",
+      "churned": 2
+    },
+    {
+      "value": "US",
+      "churned": 3
+    },
+    {
+      "value": "QA",
+      "churned": 0
+    },
+    {
+      "value": "NP",
+      "churned": 3
+    },
+    {
+      "value": "BD",
+      "churned": 3
+    },
+    {
+      "value": "PK",
+      "churned": 2
+    },
+    {
+      "value": "FR",
+      "churned": 1
+    },
+    {
+      "value": "CN",
+      "churned": 1
+    },
+    {
+      "value": "KW",
+      "churned": 1
+    },
+    {
+      "value": "SA",
+      "churned": 1
+    },
+    {
+      "value": "GB",
+      "churned": 3
+    },
+    {
+      "value": "SL",
+      "churned": 2
+    },
+    {
+      "value": "CA",
+      "churned": 1
+    },
+
+    {
+      "value": "AF",
+      "churned": 1
+    },
+    {
+      "value": "FI",
+      "churned": 1
+    },
+    {
+      "value": "MM",
+      "churned": 1
+    },
+    {
+      "value": "CH",
+      "churned": 1
+    }
+  ]
+}

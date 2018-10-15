@@ -1,0 +1,51 @@
+{
+	"sink": [{
+		"value": 1,
+		"product": ["lives6", "tile1"]
+	}, {
+		"value": 8,
+		"product": ["shuffle"]
+	}, {
+		"value": 13,
+		"product": ["shuffle", "lives3", "joker", "swoosh"]
+	}, {
+		"value": 14,
+		"product": ["shuffle", "joker", "swoosh"]
+	}, {
+		"value": 15,
+		"product": ["joker", "time", "shuffle", "swoosh"]
+	}, {
+		"value": 16,
+		"product": ["joker", "time", "swoosh"]
+	}, {
+		"value": 17,
+		"product": ["time", "lives2", "shuffle"]
+	}, {
+		"value": 18,
+		"product": ["hint"]
+	}, {
+		"value": 19,
+		"product": ["time", "shuffle", "lives2", "hint", "lives3"]
+	}, {
+		"value": 20,
+		"product": ["hint", "shuffle", "half_hint", "time"]
+	}, {
+		"value": 21,
+		"product": ["tile3", "tile2"]
+	}, {
+		"value": 22,
+		"product": ["time"]
+	}, {
+		"value": 23,
+		"product": ["time"]
+	}, {
+		"value": 23,
+		"product": ["swoosh"]
+	}, {
+		"value": 24,
+		"product": ["shuffle", "joker", "hint", "half_hint", "swoosh", "lives2", "time"]
+	}, {
+		"value": 25,
+		"product": ["lives2", "time", "swoosh"]
+	}]
+}

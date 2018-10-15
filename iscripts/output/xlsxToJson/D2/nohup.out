@@ -1,0 +1,572 @@
+
+> ngx-admin@2.0.2 start /root/console/console-2/norahanalytics-console
+> ng serve --host 0.0.0.0 --disable-host-check --aot
+
+WARNING Running a server with --disable-host-check is a security risk. See https://medium.com/webpack/webpack-dev-server-middleware-security-issues-1489d950874a for more information.
+** NG Live Development Server is listening on 0.0.0.0:4200, open your browser on http://localhost:4200/ **
+webpack: wait until bundle finished: /json/nazara/retention_booster/churn_predictions/overview/stats.json
+webpack: wait until bundle finished: /json/nazara/retention_booster/churn_predictions/charts/platform.json
+webpack: wait until bundle finished: /json/nazara/retention_booster/churn_predictions/tables/platform.json
+webpack: wait until bundle finished: /json/nazara/retention_booster/churn_predictions/tables/country.json
+webpack: wait until bundle finished: /json/nazara/retention_booster/churn_predictions/charts/country.json
+webpack: wait until bundle finished: /json/nazara/retention_booster/churn_predictions/charts/engagement.json
+[0mDate: [1m[37m2018-03-19T11:47:46.728Z[39m[22m[0m
+[0mHash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m[0m
+[0mTime: [1m[37m99651[39m[22mms[0m
+[0mchunk {[1m[33mcharts.module[39m[22m} [1m[32mcharts.module.chunk.js[39m[22m () 15.5 kB [1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mcommon[39m[22m} [1m[32mcommon.chunk.js[39m[22m (common) 11.1 MB [1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mcomponents.module[39m[22m} [1m[32mcomponents.module.chunk.js[39m[22m () 533 kB [1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mfiller-library.module[39m[22m} [1m[32mfiller-library.module.chunk.js[39m[22m () 9.31 kB [1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mforms.module[39m[22m} [1m[32mforms.module.chunk.js[39m[22m () 180 kB [1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33minline[39m[22m} [1m[32minline.bundle.js[39m[22m (inline) 5.79 kB [1m[33m[entry][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 251 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mmaps.module[39m[22m} [1m[32mmaps.module.chunk.js[39m[22m () 255 kB [1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mnorah-scheduler.module[39m[22m} [1m[32mnorah-scheduler.module.chunk.js[39m[22m () 111 kB [1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mnotificationlist.module[39m[22m} [1m[32mnotificationlist.module.chunk.js[39m[22m () 1.01 MB [1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mpages.module[39m[22m} [1m[32mpages.module.chunk.js[39m[22m () 4.29 MB [1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mpolyfills[39m[22m} [1m[32mpolyfills.bundle.js[39m[22m (polyfills) 1.65 MB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mscripts[39m[22m} [1m[32mscripts.bundle.js[39m[22m (scripts) 2.66 MB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33msmart-pricing.module[39m[22m} [1m[32msmart-pricing.module.chunk.js[39m[22m () 618 kB [1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mstyles[39m[22m} [1m[32mstyles.bundle.js[39m[22m (styles) 2.1 MB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mtables.module[39m[22m} [1m[32mtables.module.chunk.js[39m[22m () 100 kB [1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mui-features.module[39m[22m} [1m[32mui-features.module.chunk.js[39m[22m () 694 kB [1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mvendor[39m[22m} [1m[32mvendor.bundle.js[39m[22m (vendor) 11.8 MB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /json/nazara/retention_booster/churn_predictions/tables/engagement.json
+webpack: wait until bundle finished: /
+webpack: wait until bundle finished: /json/nazara/retention_booster/churn_predictions/charts/total_time_spent.json
+webpack: wait until bundle finished: /json/nazara/retention_booster/churn_predictions/charts/current_level.json
+webpack: wait until bundle finished: /json/nazara/retention_booster/churn_predictions/tables/total_time_spent.json
+webpack: wait until bundle finished: /json/nazara/retention_booster/churn_predictions/tables/current_level.json
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+[0mDate: [1m[37m2018-03-19T11:47:52.949Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m4776[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /assets/country-currency.json
+webpack: wait until bundle finished: /json/nazara/retention_booster/churn_predictions/tables/user_churn_probability.json
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /jquery.qtip.min.map
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+webpack: wait until bundle finished: /main.bundle.js
+webpack: wait until bundle finished: /vendor.bundle.js
+[0mDate: [1m[37m2018-03-19T11:47:56.536Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m2844[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /pages.module.chunk.js
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /pages.module.chunk.js
+[0mDate: [1m[37m2018-03-19T11:48:01.159Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m3813[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /
+webpack: wait until bundle finished: /
+[0mDate: [1m[37m2018-03-19T11:48:06.285Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m3824[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+[0mDate: [1m[37m2018-03-19T11:48:10.177Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m3102[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /pages.module.chunk.js
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+webpack: wait until bundle finished: /jquery.qtip.min.map
+webpack: wait until bundle finished: /pages.module.chunk.js
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+webpack: wait until bundle finished: /main.bundle.js
+[0mDate: [1m[37m2018-03-19T11:48:14.772Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m3697[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /
+webpack: wait until bundle finished: /
+webpack: wait until bundle finished: /pages.module.chunk.js
+webpack: wait until bundle finished: /common.chunk.js
+[0mDate: [1m[37m2018-03-19T11:48:19.803Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m3042[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+[0mDate: [1m[37m2018-03-19T11:48:23.151Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m2679[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /jquery.qtip.min.map
+webpack: wait until bundle finished: /pages.module.chunk.js
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+[0mDate: [1m[37m2018-03-19T11:48:26.582Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m2741[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /main.bundle.js
+[0mDate: [1m[37m2018-03-19T11:48:30.054Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m2731[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /pages.module.chunk.js
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /pages.module.chunk.js
+[0mDate: [1m[37m2018-03-19T11:48:33.572Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m2855[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+[0mDate: [1m[37m2018-03-19T11:48:38.748Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m4436[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+webpack: wait until bundle finished: /jquery.qtip.min.map
+webpack: wait until bundle finished: /
+webpack: wait until bundle finished: /pages.module.chunk.js
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /
+[0mDate: [1m[37m2018-03-19T11:48:42.383Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m2903[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+[0mDate: [1m[37m2018-03-19T11:48:46.376Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m3274[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+[0mDate: [1m[37m2018-03-19T11:48:50.357Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m3130[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /pages.module.chunk.js
+webpack: wait until bundle finished: /pages.module.chunk.js
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+[0mDate: [1m[37m2018-03-19T11:48:55.709Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m4466[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /
+webpack: wait until bundle finished: /
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+webpack: wait until bundle finished: /jquery.qtip.min.map
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /pages.module.chunk.js
+[0mDate: [1m[37m2018-03-19T11:48:59.729Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m3261[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /
+[0mDate: [1m[37m2018-03-19T11:49:03.732Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m3119[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+[0mDate: [1m[37m2018-03-19T11:49:07.691Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m3125[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+webpack: wait until bundle finished: /jquery.qtip.min.map
+webpack: wait until bundle finished: /main.bundle.js
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /pages.module.chunk.js
+webpack: wait until bundle finished: /vendor.bundle.js
+[0mDate: [1m[37m2018-03-19T11:49:11.721Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m3295[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /pages.module.chunk.js
+[0mDate: [1m[37m2018-03-19T11:49:18.493Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m5699[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /
+[0mDate: [1m[37m2018-03-19T11:49:22.164Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m2850[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+[0mDate: [1m[37m2018-03-19T11:49:28.062Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m5017[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+webpack: wait until bundle finished: /jquery.qtip.min.map
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /pages.module.chunk.js
+[0mDate: [1m[37m2018-03-19T11:49:31.611Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m2779[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+webpack: wait until bundle finished: /vendor.bundle.js
+[0mDate: [1m[37m2018-03-19T11:49:36.450Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m3908[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /
+[0mDate: [1m[37m2018-03-19T11:49:39.965Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m2704[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+[0mDate: [1m[37m2018-03-19T11:49:44.106Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m3320[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /jquery.qtip.min.map
+webpack: wait until bundle finished: /pages.module.chunk.js
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /pages.module.chunk.js
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+[0mDate: [1m[37m2018-03-19T11:49:47.609Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m2801[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-03-19T11:49:52.509Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m3914[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /
+webpack: wait until bundle finished: /
+[0mDate: [1m[37m2018-03-19T11:49:56.017Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m2604[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+[0mDate: [1m[37m2018-03-19T11:49:59.587Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m2761[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /pages.module.chunk.js
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+webpack: wait until bundle finished: /jquery.qtip.min.map
+webpack: wait until bundle finished: /pages.module.chunk.js
+webpack: wait until bundle finished: /common.chunk.js
+[0mDate: [1m[37m2018-03-19T11:50:03.198Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m2810[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-03-19T11:50:06.901Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m2981[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /
+[0mDate: [1m[37m2018-03-19T11:50:11.716Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m4019[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+[0mDate: [1m[37m2018-03-19T11:50:15.331Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m2933[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /jquery.qtip.min.map
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /pages.module.chunk.js
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+[0mDate: [1m[37m2018-03-19T11:50:18.653Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m2645[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+[0mDate: [1m[37m2018-03-19T11:50:22.173Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m2822[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /
+webpack: wait until bundle finished: /pages.module.chunk.js
+webpack: wait until bundle finished: /common.chunk.js
+[0mDate: [1m[37m2018-03-19T11:50:25.827Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m2834[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+[0mDate: [1m[37m2018-03-19T11:50:30.402Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m2676[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+webpack: wait until bundle finished: /jquery.qtip.min.map
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /pages.module.chunk.js
+[0mDate: [1m[37m2018-03-19T11:50:33.716Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m2643[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+[0mDate: [1m[37m2018-03-19T11:50:37.087Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m2668[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /pages.module.chunk.js
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+[0mDate: [1m[37m2018-03-19T11:50:40.881Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m2906[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+[0mDate: [1m[37m2018-03-19T11:50:45.749Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m2830[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /jquery.qtip.min.map
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /pages.module.chunk.js
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+[0mDate: [1m[37m2018-03-19T11:50:49.560Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m3106[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /styles.bundle.js
+[0mDate: [1m[37m2018-03-19T11:50:53.162Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m2844[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+[0mDate: [1m[37m2018-03-19T11:51:01.706Z[39m[22m - Hash: [1m[37m4cbfc4f1bed926cf52c5[39m[22m - Time: [1m[37m6916[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /scripts.bundle.js
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /vendor.bundle.js
+webpack: wait until bundle finished: /main.bundle.js
+[0mDate: [1m[37m2018-03-19T11:51:08.993Z[39m[22m - Hash: [1m[37m9e88d888df55cf9b9db0[39m[22m - Time: [1m[37m6148[39m[22mms[0m
+[0m18 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /fonts/Avenir/AvenirRegular.woff
+webpack: wait until bundle finished: /jquery.qtip.min.map
+webpack: wait until bundle finished: /common.chunk.js
+webpack: wait until bundle finished: /pages.module.chunk.js
+Killed
+
+npm ERR! Linux 4.4.0-116-generic
+npm ERR! argv "/usr/bin/nodejs" "/usr/bin/npm" "start"
+npm ERR! node v7.10.1
+npm ERR! npm  v4.2.0
+npm ERR! code ELIFECYCLE
+npm ERR! errno 137
+npm ERR! ngx-admin@2.0.2 start: `ng serve --host 0.0.0.0 --disable-host-check --aot`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the ngx-admin@2.0.2 start script 'ng serve --host 0.0.0.0 --disable-host-check --aot'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the ngx-admin package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     ng serve --host 0.0.0.0 --disable-host-check --aot
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs ngx-admin
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls ngx-admin
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /root/.npm/_logs/2018-03-19T11_51_12_276Z-debug.log
