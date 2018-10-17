@@ -1,7 +1,7 @@
 from django.http import HttpResponseRedirect, HttpResponse, Http404
 from django.shortcuts import render
 from django.conf import settings
-from .forms import UploadFileForm, UploadFileWithInputForm
+from .forms import UploadFileForm
 from django.core.files.storage import FileSystemStorage
 import pandas as pd
 import xlrd
@@ -15,8 +15,6 @@ import shutil
 def home(request):
     return render(request, 'home.html')
 
-def zipit(dpath):
-    shutil.make_archive(os.path.join(os.path.dirname(__file__),"../output/script4/Output"), 'zip', dpath)
 # script 1 - Piwik Analytics / App Preview / ReportingScript1
 def script1(request):
     try:
@@ -259,7 +257,7 @@ def script4(request):
 def script5(request):
     try:
         if request.method == 'POST':
-            form = UploadFileWithInputForm(request.POST, request.FILES)
+            form = UploadFileForm(request.POST, request.FILES)
             if form.is_valid():
                 input_file = request.FILES['file']
                 flink1 = request.POST['link1']
@@ -305,19 +303,25 @@ def script5(request):
                 df['video'] = video_li
                 df['videoLink'] = videoLink_li
                 df['endposter'] = endposter_li
+                print('df created for values')
 
                 map = ['name', 'loan', 'link', 'link1', 'video', 'videoLink', 'endposter']
                 # o_filename = filename[:-5] + '_db_import.xlsx'
                 dpath = os.path.join(os.path.dirname(__file__), "../output/script5/output.xlsx")
+                print('dpath ok')
                 writer = pd.ExcelWriter(dpath, engine='xlsxwriter', options={'strings_to_urls': False})
                 df.to_excel(writer, index=False, columns=map)
+                print('file written')
                 writer.close()
+                print('writer closed')
                 fs.delete(filename)
+                print('media deleted')
                 down = download(request, dpath)
+                print('download link')
                 return down
             return render(request, 'scripto/fail.html')
         else:
-            form = UploadFileWithInputForm()
+            form = UploadFileForm()
         return render(request, 'scripto/upload/script5uploadFile.html', {'form': form})
     except:
         raise Http404
@@ -331,3 +335,5 @@ def download(request, path):
             response['Content-Disposition'] = 'inline; filename=' + os.path.basename(file_path)
             return response
     raise Http404
+
+
