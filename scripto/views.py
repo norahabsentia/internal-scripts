@@ -1,7 +1,7 @@
 from django.http import HttpResponseRedirect, HttpResponse, Http404
 from django.shortcuts import render
 from django.conf import settings
-from .forms import UploadFileForm
+from .forms import UploadFileForm, UploadFileWithInputForm
 from django.core.files.storage import FileSystemStorage
 import pandas as pd
 import xlrd
@@ -259,7 +259,7 @@ def script4(request):
 def script5(request):
     try:
         if request.method == 'POST':
-            form = UploadFileForm(request.POST, request.FILES)
+            form = UploadFileWithInputForm(request.POST, request.FILES)
             if form.is_valid():
                 input_file = request.FILES['file']
                 flink1 = request.POST['link1']
@@ -317,7 +317,7 @@ def script5(request):
                 return down
             return render(request, 'scripto/fail.html')
         else:
-            form = UploadFileForm()
+            form = UploadFileWithInputForm()
         return render(request, 'scripto/upload/script5uploadFile.html', {'form': form})
     except:
         raise Http404
