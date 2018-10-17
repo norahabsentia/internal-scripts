@@ -307,8 +307,8 @@ def script5(request):
                 df['endposter'] = endposter_li
 
                 map = ['name', 'loan', 'link', 'link1', 'video', 'videoLink', 'endposter']
-                o_filename = filename[:-5] + '_db_import.xlsx'
-                dpath = os.path.join(os.path.dirname(__file__), "../output/script5/%s"% o_filename)
+                # o_filename = filename[:-5] + '_db_import.xlsx'
+                dpath = os.path.join(os.path.dirname(__file__), "../output/script5/output.xlsx")
                 writer = pd.ExcelWriter(dpath, engine='xlsxwriter', options={'strings_to_urls': False})
                 df.to_excel(writer, index=False, columns=map)
                 writer.close()
