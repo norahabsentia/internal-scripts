@@ -270,32 +270,20 @@ def script5(request):
                 filename = fs.save(input_file.name, input_file)
                 uploaded_file_url = fs.path(filename)
                 # Code to read data from input excel file
-                loc = ("%s"% uploaded_file_url)
-                wb = xlrd.open_workbook(loc)
-                sheet = wb.sheet_by_index(0)
-                rows = sheet.nrows
-                columns = sheet.ncols
+                loc = uploaded_file_url
 
-                input_format = []
-                for i in range(sheet.ncols):
-                    input_format.append(sheet.cell_value(0, i))
+                df = pd.read_excel(loc)
+                rows = df.shape[0]
 
-                dic = {}
-                for i in range(columns):
-                    dic[sheet.col_values(i)[0]] = sheet.col_values(i, 1)
+                name_li = []
+                link1_li = []
+                video_li = []
+                videoLink_li = []
+                endposter_li = []
 
-                required_data = {}
-                name_li = ['name']
-                loan_li = ['loan']
-                link_li = ['link']
-                link1_li = ['link1']
-                video_li = ['video']
-                videoLink_li = ['videoLink']
-                endposter_li = ['endposter']
-
-                for row in range(rows - 1):
+                for row in range(rows):
                     first_name = []
-                    for alpha in dic['Customer Name'][row].split():
+                    for alpha in df['Customer Name'][row].split():
                         if len(alpha) <= 2:
                             first_name.append(alpha)
                         else:
@@ -305,40 +293,25 @@ def script5(request):
                         name_li.append(first_name[0])
                     else:
                         name_li.append(' '.join(first_name))
-                    rupee = dic['Pre approved amount'][row]
-                    loan_li.append(rupee)
-                    link = dic['CTA Link'][row]
-                    link_li.append(link)
                     link1_li.append(flink1)
                     video_li.append(fvideo)
                     videoLink_li.append(fvideoLink)
                     endposter_li.append(fendposter)
 
-                required_data['name'] = name_li
-                required_data['loan'] = loan_li
-                required_data['link'] = link_li
-                required_data['link1'] = link1_li
-                required_data['video'] = video_li
-                required_data['videoLink'] = videoLink_li
-                required_data['endposter'] = endposter_li
+                df['name'] = name_li
+                df['loan'] = df['Pre approved amount']
+                df['link'] = df['CTA Link']
+                df['link1'] = link1_li
+                df['video'] = video_li
+                df['videoLink'] = videoLink_li
+                df['endposter'] = endposter_li
 
                 map = ['name', 'loan', 'link', 'link1', 'video', 'videoLink', 'endposter']
-                # contains list of all required data
-                alldata = []
-                for z in map:
-                    if z in required_data.keys():
-                        alldata.append(required_data[z])
-                # Code to write data to output.xlsx file
                 o_filename = filename[:-5] + '_db_import.xlsx'
                 dpath = os.path.join(os.path.dirname(__file__), "../output/script5/%s"% o_filename)
-                workbook = Workbook(dpath, {'strings_to_urls': False})
-                worksheet = workbook.add_worksheet()
-                co = 0
-                for i in alldata:
-                    for index, value in enumerate(i):
-                        worksheet.write(index, co, value)
-                    co += 1
-                workbook.close()
+                writer = pd.ExcelWriter(dpath, engine='xlsxwriter', options={'strings_to_urls': False})
+                df.to_excel(writer, index=False, columns=map)
+                writer.close()
                 fs.delete(filename)
                 down = download(request, dpath)
                 return down
