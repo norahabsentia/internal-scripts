@@ -303,21 +303,15 @@ def script5(request):
                 df['video'] = video_li
                 df['videoLink'] = videoLink_li
                 df['endposter'] = endposter_li
-                print('df created for values')
 
                 map = ['name', 'loan', 'link', 'link1', 'video', 'videoLink', 'endposter']
-                # o_filename = filename[:-5] + '_db_import.xlsx'
-                dpath = os.path.join(os.path.dirname(__file__), "../output/script5/output.xlsx")
-                print('dpath ok')
+                o_filename = filename[:-5] + '_db_import.xlsx'
+                dpath = os.path.join(os.path.dirname(__file__), "../output/script5/%s" % o_filename)
                 writer = pd.ExcelWriter(dpath, engine='xlsxwriter', options={'strings_to_urls': False})
                 df.to_excel(writer, index=False, columns=map)
-                print('file written')
                 writer.close()
-                print('writer closed')
                 fs.delete(filename)
-                print('media deleted')
                 down = download(request, dpath)
-                print('download link')
                 return down
             return render(request, 'scripto/fail.html')
         else:
