@@ -11,6 +11,10 @@ from xlwt import Workbook
 from xlsxwriter import Workbook
 from zipfile import ZipFile
 import shutil
+from urllib.parse import urlparse, parse_qs
+import re
+from collections import Counter
+
 
 def home(request):
     return render(request, 'home.html')
@@ -331,3 +335,61 @@ def download(request, path):
     raise Http404
 
 
+def nameSplit(request):
+    try:
+        if request.method == 'POST':
+            form = UploadFileForm(request.POST, request.FILES)
+            if form.is_valid():
+                input_file = request.FILES['file']
+                fs = FileSystemStorage()
+                filename = fs.save(input_file.name, input_file)
+                uploaded_file_url = fs.path(filename)
+                # Code to read data from input excel file
+                loc = uploaded_file_url
+
+                df = pd.read_excel(loc)
+
+                names_list = []
+                char_count = []
+                for k in df['LONG_URL']:
+                    if k != '':
+                        parsed = urlparse(k)
+                        name = parse_qs(parsed.query)['tbcustname']
+
+                        if type(name[0]) != str:
+                            names_list.append('Empty')
+                            char_count.append(0)
+                        else:
+                            z = re.findall('[A-Z][^A-Z]*', name[0])
+                            names_list.append(z[0])
+                            char_count.append(len(z[0]))
+                    else:
+                        names_list.append('empty url')
+                        char_count.append(0)
+
+                mycount = sorted(Counter(char_count).items())
+
+                df['namesplit'] = names_list
+
+                map = ['namesplit']
+                dpath = os.path.join(os.path.dirname(__file__), "../output/script6/namesplit.xlsx")
+                writer = pd.ExcelWriter(dpath, engine='xlsxwriter', options={'strings_to_urls': False})
+                df.to_excel(writer, index=False, columns=map)
+                writer.close()
+                fs.delete(filename)
+                down = download(request, dpath)
+                args = {
+                    'char_data': mycount,
+                }
+                return render(request, 'scripto/download/namesplit.html', args)
+            return render(request, 'scripto/fail.html')
+        else:
+            form = UploadFileForm()
+        return render(request, 'scripto/upload/uploadFile.html', {'form': form})
+    except:
+        raise Http404
+
+def namesplit_download(request):
+    dpath = os.path.join(os.path.dirname(__file__), "../output/script6/namesplit.xlsx")
+    down = download(request, dpath)
+    return down

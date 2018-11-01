@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container text-center">
+    <h1>Character Data</h1>
+
+
+    <div class="row">
+    {% for a in char_data %}
+        <div class="col-sm-12">
+            <p>{{ a.0 }} Character : {{ a.1 }}</p>
+        </div>
+    {% endfor %}
+    </div>
+
+
+    <div class="row" style="margin-bottom: 30px">
+        <div class="col-sm">
+            <br><br>
+            <button class="btn" type="submit"><a href="/ds6/">DOWNLOAD</a></button>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+

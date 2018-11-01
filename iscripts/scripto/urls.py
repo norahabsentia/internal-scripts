@@ -20,4 +20,6 @@ urlpatterns = [
     path('script3/', views.script3, name='script3'),
     path('script4/', views.script4, name='script4'),
     path('script5/', views.script5, name='script5'),
+    path('script6/', views.nameSplit, name='script6'),
+    path('ds6/', views.namesplit_download, name='ds6'),
 ]
